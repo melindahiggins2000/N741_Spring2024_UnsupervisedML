@@ -158,11 +158,11 @@ Another way to learn more about the data is to reduce dimensionality. If you hav
 
 Let's set the stage with an example. Suppose we have the heights of 100 pairs of twins (or, if you prefer, suppose you have the expression levels of 2 genes for 100 samples). Let's plot them:
 
-![Alt](Firstplot.pdf){width=100% height=1200}
+![Alt](Firstplot.png)
 
 You will notice that the data live in two dimensions, but they appear to be somewhat linear. We can _rotate_ this plot so that it makes a bit more sense, but taking the average of the twin heights and plotting it against the difference of the heights. Let's take a look:
 
-![Alt](rotated.pdf){width=100% height=1200}
+![Alt](rotated.png)
 
 The two orange points are the same in each plot, and you will note that the rotation preserves the distance between them.
 
